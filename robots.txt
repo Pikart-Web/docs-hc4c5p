@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-9l27h4.hsteamid.com/sitemap.xml
